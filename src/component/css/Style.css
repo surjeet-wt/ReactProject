@@ -1,0 +1,130 @@
+.navbar {
+    background-color: antiquewhite;
+}
+
+.slide{
+    background-size: cover !important;
+    height:100vh;;
+}
+.slide_img1 {
+    background: url(https://cdn.shopify.com/s/files/1/0044/0624/7537/files/slider2-t903-1920x937_1920x900.jpg?v=1538105715) no-repeat;
+    height: calc(100vh - 90px);
+    background-size: cover !important;
+}
+.slide_img2 {
+    background: url(https://cdn.shopify.com/s/files/1/0044/0624/7537/files/slider1-t903-1920x937_1920x900.jpg?v=1538105685) no-repeat;
+    height: calc(100vh - 90px);
+    background-size: cover !important;
+}
+
+.slick-arrow {
+    display: none !important;
+}
+
+
+.pad80 {
+    padding: 80px 0;
+}
+
+.box-data {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.box-data p {
+    margin-bottom: 0;
+}
+.box-data h4 {
+    font-size: 17px;
+    margin: 0;
+    padding: 0px 0 5px;
+}
+
+.box-data .price {
+    color: #d2aa18;
+}
+
+.box-data .pro-data {
+    padding: 20px 0 11px;
+}
+.widgets_container h3 {
+    text-align: left;
+}
+
+.footer_top {
+    text-align: left;
+}
+
+.grey {
+    background: #f5f5ff;
+}
+.subscribe_form form input {
+    padding: 0 108px 0 0px;
+}
+.choseus_area {
+    margin-bottom: 0;
+}
+.slider_content h1, .slider_content p{
+    color: #ffffff;
+}
+
+.slider_content p span {
+    color: #d2aa18;
+}
+
+.slider_content a {
+    background: #d2aa18;
+}
+
+.banner_content a {
+    border-bottom: 2px solid #d2aa18;
+}
+
+.banner_content h2 {
+    font-weight: 600;
+    line-height: 33px;
+}
+
+.newsletter_area_start .section_title h2 span, 
+.header_account-list > a:hover {
+    color: #d2aa18;
+}
+
+.mini_cart_wrapper span.item_count {
+    background: #d2aa18;
+}
+
+.header_account-list > a {
+    font-size: 21px;
+}
+.header_account-list {
+    margin-right: 15px;
+}
+.language_currency > ul > li > a {
+    line-height: 35px;
+}
+.header_top {
+    border-bottom: none;
+    background: #d2aa18;
+    color: #fff;
+}
+.header_middle5 {
+    padding: 18px 0;
+}
+
+.bannerSlider  {
+    margin-top: 125px;
+}
+
+.ReactStickyHeader_fixed {
+    background: #fff;
+    box-shadow: 10px 10px 10px #0000000f;
+}
+
+.breadcrumbs_area {
+    margin-top: 125px;
+}
+
+.main_menu nav > ul > li:hover > a {
+    color: #d2aa18;
+}
